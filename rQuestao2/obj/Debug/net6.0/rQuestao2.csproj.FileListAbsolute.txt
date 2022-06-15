@@ -1,0 +1,15 @@
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\bin\Debug\net6.0\rQuestao2.exe
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\bin\Debug\net6.0\rQuestao2.deps.json
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\bin\Debug\net6.0\rQuestao2.runtimeconfig.json
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\bin\Debug\net6.0\rQuestao2.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\bin\Debug\net6.0\rQuestao2.pdb
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.csproj.AssemblyReference.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.AssemblyInfoInputs.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.AssemblyInfo.cs
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.csproj.CoreCompileInputs.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\refint\rQuestao2.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.pdb
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\rQuestao2.genruntimeconfig.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao2\obj\Debug\net6.0\ref\rQuestao2.dll

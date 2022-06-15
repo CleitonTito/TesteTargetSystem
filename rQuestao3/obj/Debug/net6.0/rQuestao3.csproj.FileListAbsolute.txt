@@ -1,0 +1,17 @@
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\rQuestao3.exe
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\rQuestao3.deps.json
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\rQuestao3.runtimeconfig.json
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\rQuestao3.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\rQuestao3.pdb
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.csproj.AssemblyReference.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.AssemblyInfoInputs.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.AssemblyInfo.cs
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.csproj.CoreCompileInputs.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.csproj.CopyComplete
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\refint\rQuestao3.dll
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.pdb
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\rQuestao3.genruntimeconfig.cache
+C:\Users\C.Tito\Documents\TargetEntrevista\rQuestao3\obj\Debug\net6.0\ref\rQuestao3.dll
